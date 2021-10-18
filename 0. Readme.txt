@@ -1,3 +1,0 @@
-1. LPW使用手册
-2. lpw 的Instrument code，替换Spark-2.2.3源码相应文件
-3.  \cacheProcessExample\testData.txt表示测试样例数据集， \cacheProcessExample\wikiLocal.sh 和\cacheProcessExample\wikiTestLocal.sh 测试脚本
